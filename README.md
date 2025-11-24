@@ -40,3 +40,4 @@ We will now create a Pandas Series that contains the representative values for e
 
 * The type of central tendency measure to use depends on the type and the distribution of the data
 
+---
